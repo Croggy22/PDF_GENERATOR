@@ -20,7 +20,7 @@ This is a rudimentary application run from command line, with no error handling 
 * Clone and run locally, or run from cloud-based REPL
 * .gitignore excludes output directories and .env file
 * Create output_pdfs directory at project root so the app won't fail
-* Creat .env file using .env_example.txt as template
+* Create .env file using .env_example.txt as template
 
 ### Main Project Structure
 ```text

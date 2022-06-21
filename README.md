@@ -2,7 +2,7 @@
 
 ## Description
 
-Generate "X" number of PDF files based on a terminal input field, insert lorem text, and save with UUID naming. Output the files to a directory. Save file names to .XLSX format for help with further processing (to be further used for generating XML for import processes etc.)
+Generate "X" number of PDF files based on a terminal input field, insert lorem text, and save with UUID naming. Output the files to a directory. Save file names to .csv format for help with further processing (to be further used for generating XML for import processes etc.)
 
 This is a rudimentary application run from command line, with no error handling on input and it will exit with errors if invalid inputs are received. I may come back to this as an enhancment later. Please sumbit a pull request if you are interested.
 

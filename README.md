@@ -1,6 +1,4 @@
-# Project Title
-
-PDF_GENERATOR
+# PDF_GENERATOR
 
 ## Description
 

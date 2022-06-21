@@ -38,7 +38,6 @@ PDF_GENERATOR/
 
 * Run from the command line
 * Input desired number of PDF files
-* Step-by-step bullets
 
 
 ## Help
